@@ -1,0 +1,11 @@
+<note>
+<to><test name="Daniel"></test><test></test></to>
+<from>John</from>
+<heading>
+Reminder
+</heading>
+<test>
+Test for third condition</test>
+<body>Don't forget the meeting!</body>
+<test><test><test age="30"></test></test></test>
+</note>
